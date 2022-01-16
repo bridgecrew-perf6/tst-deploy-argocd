@@ -1,0 +1,3 @@
+container:
+  image: nginx
+  tag: 1.21.4
