@@ -1,1 +1,1 @@
-# tst-deploi-argocd
+# tst-deploy-argocd
